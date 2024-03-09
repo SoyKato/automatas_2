@@ -1,0 +1,35 @@
+{
+    "comidas":[
+    {
+        "nombre": "obanyaki",
+        "cantidad": 2,
+        "descripcion": "panecillo relleno de frijol dulce",
+        "precio": 100,
+        "Facha de modificacion": "9/3/24"
+    },
+    {
+        "nombre": "dango",
+        "cantidad": 3,
+        "descripcion": "Brocheta con 3 bolitas de mochi cubiertas en salsa mitarashi (soya y azucar)",
+        "precio": 75,
+        "Facha de modificacion": "9/3/24"
+    },
+    {
+        "nombre": "yakisoba",
+        "cantidad": 1,
+        "descripcion": "Fideos con salsa, jamon, repollo, zanahoria y shoga (jengibre rojo)",
+        "precio": 160,
+        "Facha de modificacion": "9/3/24"
+    }],
+    "bebidas":[
+        {
+            "nombre": "te verde",
+            "cantidad": 1,
+            "descripcion": "bebida tradicional servida en taza, puede pedirse frio o caliente",
+            "precio": 30,
+            "Facha de modificacion": "9/3/24"         
+        }
+    ]
+
+    
+}
